@@ -19,7 +19,6 @@ function App() {
     setText(e.target.value)
   }
 
-
   return (
     <div className="App" style={{ 'textAlign': 'center' }}>
       <h1>Counter</h1>
